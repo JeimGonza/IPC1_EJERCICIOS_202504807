@@ -1,0 +1,24 @@
+Pregunta 1 (5 pts): ¿Cuál es la complejidad Big-O de insertarOrdenado que implementaste? Justifica tu respuesta:**
+
+
+La complejidad es O(n). El método insertarOrdenado recorre la lista nodo por nodo desde el inicio (head) hasta encontrar la posición correcta donde insertar el nuevo elemento.
+Si la lista tiene n nodos, se hacen hasta n comparaciones.
+
+
+
+Pregunta 2 (5 pts): Para cada una de las siguientes operaciones, indica si sería más eficiente usar un Array o una Lista Enlazada y por qué:
+
+Buscar al estudiante con el carnet 202300001: Son igual de ineficientes en el peor caso, ambos O(n).Si los datos no están ordenados, tanto el array como la lista enlazada deben recorrer elemento por elemento hasta encontrar el carnet.
+
+Agregar 500 estudiantes nuevos al inicio del registro:
+Lista Enlazada. En una lista enlazada, insertar al inicio solo requiere cambiar el puntero head al nuevo nodo, lo que es O(1) por cada inserción.
+
+Acceder directamente al 3er estudiante de la lista:Un array permite acceso directo por índice en O(1), por ejemplo array\[2]. En una lista enlazada, para llegar al 3er nodo hay que empezar desde head y avanzar nodo por nodo 
+
+
+
+
+
+Pregunta 3 (10 pts): Dibuja (a mano) la memoria Heap mostrando cómo quedan los nodos después debe ejecutar estasinstrucciones. Indica claramente los valores de dato, next y de head:
+
+En la carpeta se encuentra el dibujo en fotografía.
