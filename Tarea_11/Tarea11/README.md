@@ -241,7 +241,7 @@ Salida:  "Llama a [TEL] o escribe a [CORREO] para más info."
 > **Agregar aquí captura de pantalla de la ejecución de `Ejercicio1.java`**  
 > *(Ejecutar en el IDE y tomar captura de la consola con los resultados de los tres métodos)*
 
-![Ejercicio 1 - Consola](img/ejercicio1_consola.png)
+![Ejercicio 1](Capturas/Ejercicio1.png)
 
 ---
 
@@ -250,7 +250,8 @@ Salida:  "Llama a [TEL] o escribe a [CORREO] para más info."
 > **Agregar aquí captura de pantalla de la ejecución de `Ejercicio2.java`**  
 > *(Debe mostrar las fechas extraídas, los correos encontrados y los tres casos de censura)*
 
-![Ejercicio 2 - Consola](img/ejercicio2_consola.png)
+![Ejercicio 2](Capturas/Ejercicio2.1.png)
+![Ejercicio 2](Capturas/Ejercicio2.2.png)
 
 ---
 
